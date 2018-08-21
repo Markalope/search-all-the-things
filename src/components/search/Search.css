@@ -2,6 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-end;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   border: 1px solid #aaa;
   background: #eee;
   padding: 10px;
